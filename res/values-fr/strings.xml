@@ -74,7 +74,7 @@
 
     <string name="OK">"OK"</string>
     <string name="CANCEL">"ANNULER"</string>
-    <string name="Chat_Name">"Nom de chat"</string>
+    <string name="Chat_Name">"Nom du groupe"</string>
     <string name="Max_People">"Personnes Max."</string>
     <string name="START">"COMMENCER"</string>
     <string name="CREATE">"CRÉER"</string>
