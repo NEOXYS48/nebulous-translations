@@ -596,8 +596,8 @@
     <string name="Rejoin_Game">"Rejoindre la partie"</string>
     <string name="PRIZES">"PRIX"</string>
 
-    <string name="Enable_Custom_Skin">"Activer les skins personnalisée"</string>
-    <string name="Use_Custom_Skin">"Utiliser un skin\npersonnalisée"</string>
+    <string name="Enable_Custom_Skin">"Activer les skins personnalisé"</string>
+    <string name="Use_Custom_Skin">"Utiliser un skin\npersonnalisé"</string>
     <string name="custom_skin_description">"Cette fonctionnalité vous permet d'utiliser votre photo de profil ou une image en tant que skin. Vous verrez toujours les autres skins de la même manière. Les autres joueurs ne verront pas votre skin personnalisé."</string>
     <string name="CUSTOM_SKIN">"SKIN PERSONNALISÉ"</string>
 
