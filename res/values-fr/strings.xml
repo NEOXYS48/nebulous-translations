@@ -739,7 +739,7 @@
     <string name="upload_size_failure">"Impossible de publier cette image, car elle est trop volumineuse. Essayez une autre image s'il vous plaît."</string>
     <string name="CONTRIBUTE_PLASMA">"FAIRE UN DON DE PLASMA"</string>
     <string name="Specify_Contribution_Amount">"Précisez le montant du don"</string>
-    <string name="Clan_Contribution">"Dons de Plasmas au Clan"</string>
+    <string name="Clan_Contribution">"Dons de Plasmas au Clan."</string>
     <string name="FILTER">"FILTRE"</string>
     <string name="List_Count_">"Nombre de listes:"</string>
     <string name="Download_Skins">"Télécharger les Skins personnalisés"</string>
